@@ -1,0 +1,24 @@
+#alphabet {
+    font-size: 100px;
+    text-align: center;
+    color: rgb(116, 80, 157);
+}
+
+#randomWord {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 auto;
+    display: block;
+    width: 350px;
+    height: 100px;
+    border-radius: 100px;
+    color: rgb(116, 80, 157);
+    border: none;
+    background-color: rgb(218, 167, 217);
+}
+
+#result {
+    font-size: 100px;
+    text-align: center;
+    color: rgb(116, 80, 157);
+}
